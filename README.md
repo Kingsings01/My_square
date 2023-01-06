@@ -3,12 +3,15 @@
 
 ## Task
 TODO - What is the problem? And where is the challenge?
+Create a program which displays a beautiful square.
 
 ## Description
 TODO - How have you solved the problem?
+Conditional statements to check the argument count passed to the command line.
 
 ## Installation
 TODO - How to install your project? npm install? make? make re?
+None required in respect to the quest project.
 
 ## Usage
 TODO - How does it work?
